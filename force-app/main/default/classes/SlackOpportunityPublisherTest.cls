@@ -1,6 +1,5 @@
 @isTest
-public class SlackOpportunityPublisherTest {
-    
+public class SlackOpportunityPublisherTest {    
     static testMethod void testPost() {
         Boolean success = true;
         try {

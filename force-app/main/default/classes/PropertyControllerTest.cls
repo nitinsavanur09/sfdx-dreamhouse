@@ -1,6 +1,5 @@
 @isTest
-public class PropertyControllerTest {
-    
+public class PropertyControllerTest {   
     static testMethod void testFindAll() {
         Boolean success = true;
         try {

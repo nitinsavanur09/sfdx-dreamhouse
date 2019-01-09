@@ -1,5 +1,6 @@
 public with sharing class PushPriceChangeNotification {
     
+    
     @InvocableMethod(label='Push Price Change Notification')
     public static void pushNotification(List<Id> propertyId) {
         String pushServerURL;

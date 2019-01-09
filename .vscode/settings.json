@@ -10,5 +10,10 @@
     },
     "eslint.nodePath": "c:\\Users\\nsavan\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-44.11.0\\node_modules",
     "html.suggest.angular1": false,
-    "html.suggest.ionic": false
+    "html.suggest.ionic": false,
+
+    "codescan.project":{
+        "projectKey":"sfdxdreamhouse",
+        "serverId":"local"
+    },  
 }
